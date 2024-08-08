@@ -26,9 +26,9 @@ This is a Bash script designed to display a list of package managers, their inst
 
 3. **Run the Script**
 
-  ```bash
-  ./check_pkg_manager.sh
-  ```
+   ```bash
+   ./check_pkg_manager.sh
+    ```
 
 4. Follow the Prompts
 
