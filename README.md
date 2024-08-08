@@ -14,20 +14,20 @@ This is a Bash script designed to display a list of package managers, their inst
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/Harshit-Dhanwalkar/Packmanager-Installer-makes-easy.git
+   cd Packmanager-Installer-makes-easy
    ```
 
 2. **Make the Script Executable**
 
    ```bash
-   chmod +x package_manager_script.sh
+   chmod +x check_pkg_manager.sh
    ```
 
 3. **Run the Script**
 
   ```bash
-  ./package_manager_script.sh
+  ./check_pkg_manager.sh
   ```
 
 4. Follow the Prompts
