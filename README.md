@@ -61,4 +61,4 @@ This is a Bash script designed to display a list of package managers, their inst
 
 # Acknowledgments
   
-  Thanks to [tput])https://man7.org/linux/man-pages/man1/tput.1.html) for the terminal color codes.
+  Thanks to [tput](https://man7.org/linux/man-pages/man1/tput.1.html) for the terminal color codes.
